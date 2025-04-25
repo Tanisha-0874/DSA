@@ -1,0 +1,16 @@
+Question Link:https://takeuforward.org/plus/dsa/problems/insertion-at-the-head-of-ll
+
+Insertion at head problem
+
+class Solution {
+public:
+    ListNode* insertAtHead(ListNode* &head, int X) {
+       ListNode* newNode = new ListNode(X); 
+       ListNode* ptr=head;
+       newNode->next=ptr;
+       head=newNode;
+
+        return head;
+
+    }
+};
