@@ -1,7 +1,7 @@
 Question Link:https://leetcode.com/problems/linked-list-cycle-ii/description/
 
 class Solution {
-public:
+public: 
     ListNode *detectCycle(ListNode *head) {
          ListNode *fast = head;
         ListNode *slow = head;
