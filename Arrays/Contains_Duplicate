@@ -1,5 +1,5 @@
 Question link : https://leetcode.com/problems/contains-duplicate/description/
-﻿//Contains Duplicates
+﻿//Contains Duplicates 
 //Brute Force
 class Solution {
   public:
