@@ -1,7 +1,7 @@
 Question Link:https://www.geeksforgeeks.org/problems/search-in-linked-list-1664434326/0
 
 
-/* Link list node */
+/* Link list node */ 
 /*
 struct Node
 {
