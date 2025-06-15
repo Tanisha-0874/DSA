@@ -1,6 +1,6 @@
 Question Link:https://leetcode.com/problems/two-sum/description/
 //BruteForce Approach
-class Solution {
+class Solution { 
   public:
       vector<int> twoSum(vector<int>& nums, int target) {
           for(int i=0;i<nums.size();i++){
